@@ -55,10 +55,10 @@ async def op(_, m :Message):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Channel", url="https://t.me/GM_Botzz"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/GM_Botzz_Support")
+                        InlineKeyboardButton("🗯 Channel", url="https://t.me/TamilCinemasStudio"),
+                        InlineKeyboardButton("💬 Support", url="https://t.me/NivasBots")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/GM_approval_bot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/JoinRequestAcceptingBot?startgroup")
                     ]
                 ]
             )
@@ -69,7 +69,7 @@ async def op(_, m :Message):
             keyboar = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/GM_approval_bot?start=start")
+                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/JoinRequestAcceptingBot?start=start")
                     ]
                 ]
             )
@@ -97,10 +97,10 @@ async def chk(_, cb : CallbackQuery):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Channel", url="https://t.me/GM_Botzz"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/GM_Botzz_Support")
+                        InlineKeyboardButton("🗯 Channel", url="https://t.me/TamilCinemasStudio"),
+                        InlineKeyboardButton("💬 Support", url="https://t.me/NivasBots")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/GM_approval_bot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/JoinRequestAcceptingBot?startgroup")
                     ]
                 ]
             )
